@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orwaalghobari
-- 👀 I’m interested in ...games
-- 🌱 I’m currently learning ...html
+- 👀 I’m interested in ...sex
+- 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...exam
 - 📫 How to reach me ...بتلحس طيزي
 
