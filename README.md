@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @orwaalghobari
-- 👀 I’m interested in ...asasnjaskjasjkaskjgysaghjashgoyasg
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...games
+- 🌱 I’m currently learning ...html
+- 💞️ I’m looking to collaborate on ...exam
+- 📫 How to reach me ...تلحس طيزي
 
 <!---
 orwaalghobari/orwaalghobari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
