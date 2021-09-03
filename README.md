@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...games
 - 🌱 I’m currently learning ...html
 - 💞️ I’m looking to collaborate on ...exam
-- 📫 How to reach me ...تلحس طيزي
+- 📫 How to reach me ...بتلحس طيزي
 
 <!---
 orwaalghobari/orwaalghobari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
